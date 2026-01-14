@@ -23,6 +23,7 @@ Deployment: Streamlit Community Cloud (Secrets Management)
 Installation & Setup
 Clone the Repository
   git clone https://github.com/SakshiVerma-19/DocuMend.git
+  
   cd DocuMend
 
 Set up Environment Variables 
