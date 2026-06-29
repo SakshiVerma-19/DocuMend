@@ -1,4 +1,5 @@
-DocuMend | Advanced RAG Research Assistant
+###DocuMend | Advanced RAG Research Assistant
+
 DocuMend is a high-performance Retrieval-Augmented Generation (RAG) application that allows users to chat with complex PDF documents. By combining Google’s Gemini 3 Flash with Astra DB’s vector search capabilities, it provides fact-grounded answers with precise page-level citations.
 
 Key Features
